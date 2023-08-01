@@ -1,3 +1,3 @@
 # finix
 
-live link: https://github.com/munna3438/finix/
+live link: https://munna3438.github.io/finix/
